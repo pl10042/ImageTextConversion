@@ -1,2 +1,2 @@
 # ImageTextConversion
-![](images/translated.jpg)
+![](images/translated.JPG)
