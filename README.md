@@ -1,2 +1,2 @@
 # ImageTextConversion
-![Example of English to Spanish Translation](images/chat2.jpg)
+![](images/chat2.jpg)
