@@ -1,2 +1,2 @@
 # ImageTextConversion
-![](images/chat2.jpg)
+![](images/translated.jpg)
